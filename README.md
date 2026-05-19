@@ -6,6 +6,8 @@ https://start.spring.io/ - здесь сгенерила шаблон для Spr
 
 Для расчета положения спутника использовала библиотеку predict4java (https://github.com/g4dpz/predict4java)
 
+Данные о положении беру из https://celestrak.org/NORAD/documentation/gp-data-formats.php в TLE формате.
+
 ## Запуск
 Для проверки нужно запустить (порт 8080 не должен быть занят):
 ```
